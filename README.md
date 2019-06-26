@@ -1,3 +1,3 @@
 # weightedQuickUnionFU
-my attempt to write in javascript a function for this  algorithm
-created data strucure as an object with keys servicing ids for arrays
+ a function for this  algorithm
+created data strucure as an object with keys playing a role of ids for arrays
